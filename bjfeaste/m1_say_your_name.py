@@ -27,5 +27,5 @@ def main():
     print("--------------------------------------------")
     print("  Drive demo")
     print("--------------------------------------------")
-    ev3.Sound.speak("Luke Skywalker").wait()
+    ev3.Sound.speak("Luke I am your father").wait()
 main()
